@@ -2,3 +2,4 @@ https://github.com/vanshranka0098/github-final-project/blob/main/README.md ( REA
 https://github.com/vanshranka0098/github-final-project/blob/main/LICENSE ( LICENSE )
 https://github.com/vanshranka0098/github-final-project/blob/main/CODE_OF_CONDUCT.md ( CODE_OF_CONDUCT )
 https://github.com/vanshranka0098/github-final-project/blob/main/CONTRIBUTING.md ( contributing.MD )
+https://github.com/vanshranka0098/github-final-project/blob/main/simple-interest.sh ( SIMPLE INTEREST CALCULATOR )
