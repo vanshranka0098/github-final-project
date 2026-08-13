@@ -1,2 +1,3 @@
 https://github.com/vanshranka0098/github-final-project/blob/main/README.md ( README.md )
 https://github.com/vanshranka0098/github-final-project/blob/main/LICENSE ( LICENSE )
+https://github.com/vanshranka0098/github-final-project/blob/main/CODE_OF_CONDUCT.md ( CODE_OF_CONDUCT )
